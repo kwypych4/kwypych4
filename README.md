@@ -16,6 +16,8 @@ Cześć, jestem Kamil, pasjonat programowania i entuzjasta technologii. Specjali
 - Styled Components
 - React Query
 - Git/GitHub
+- Docker
+- Ant.D
 
 ## Projekty
 
